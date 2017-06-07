@@ -1,0 +1,23 @@
++++
+abstract = "We examine the optimal auditing problem of a tax authority when taxpayers can choose both to evade and avoid. For a convex penalty function the incentive-compatibility constraints may bind for the richest taxpayer and at a positive level of both evasion and avoidance. The audit function is non-increasing in reported income, and is higher for progressive tax functions than for regressive tax functions. Higher marginal tax rates increase the incentives for non-compliance, overturning the well-known Yitzhaki paradox."
+abstract_short = "An analysis of optimal tax enforcement policy when taxpayer may engage in both avoidance and evasion."
+authors = ["D. Gamannossi degl'Innocenti", "M. D. Rablen"]
+date = "2017-07-06"
+image_preview = "publication/tax_avoidance_opt/tao.jpg"
+math = true
+publication_types = ["3"]
+publication = "IFS Working Paper (WP17/08)"
+publication_short = "IFS Working Paper*"
+selected = false
+title = "Tax avoidance and optimal income tax enforcement"
+
+[[url_custom]]
+name = "PDF (open version)"
+url = "https://www.ifs.org.uk/publications/9291"
+
+# Optional featured image (relative to `static/img/` folder).
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
+
++++
