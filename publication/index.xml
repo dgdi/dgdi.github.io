@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Tax avoidance and optimal income tax enforcement</title>
+      <link>https://dgdi.github.io/publication/tax_avoidance_opt/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dgdi.github.io/publication/tax_avoidance_opt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimal Income Tax Enforcement in the Presence of Tax Avoidance</title>
       <link>https://dgdi.github.io/publication/optimal_deterrence/</link>
       <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
