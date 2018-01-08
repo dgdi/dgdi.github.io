@@ -6,61 +6,16 @@
     <description>Recent content in Duccio Gamannossi degl&#39;Innocenti on Duccio Gamannossi degl&#39;Innocenti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Duccio Gamannossi degl&#39;Innocenti</copyright>
+    <copyright>&amp;copy; 2018 Duccio Gamannossi degl&#39;Innocenti</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Tax avoidance and optimal income tax enforcement</title>
-      <link>https://dgdi.github.io/publication/tax_avoidance_opt/</link>
-      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dgdi.github.io/publication/tax_avoidance_opt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tax avoidance on a social network</title>
-      <link>https://dgdi.github.io/talk/tarc_showcase/</link>
-      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dgdi.github.io/talk/tarc_showcase/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tax authorities on Facebook: A quantitative investigation of communication strategies</title>
-      <link>https://dgdi.github.io/talk/tarc_bbs/</link>
-      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dgdi.github.io/talk/tarc_bbs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Optimal Income Tax Enforcement in the Presence of Tax Avoidance</title>
       <link>https://dgdi.github.io/publication/optimal_deterrence/</link>
-      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://dgdi.github.io/publication/optimal_deterrence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tax avoidance and optimal income tax enforcement </title>
-      <link>https://dgdi.github.io/talk/siep-sept2017-opt/</link>
-      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dgdi.github.io/talk/siep-sept2017-opt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Income tax avoidance and evasion: A narrow bracketing approach</title>
-      <link>https://dgdi.github.io/talk/siep-sept2017-narrow/</link>
-      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dgdi.github.io/talk/siep-sept2017-narrow/</guid>
       <description></description>
     </item>
     
@@ -74,29 +29,11 @@
     </item>
     
     <item>
-      <title>Italian municipalities efficiency: A conditional frontier model approach</title>
-      <link>https://dgdi.github.io/talk/sapienza/</link>
-      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+      <title>Tax avoidance on a social network</title>
+      <link>https://dgdi.github.io/publication/avoid_social/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dgdi.github.io/talk/sapienza/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimal Income Tax Enforcement in the Presence of Tax Avoidance</title>
-      <link>https://dgdi.github.io/talk/tarc4/</link>
-      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://dgdi.github.io/talk/tarc4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimal Income Tax Enforcement in the Presence of Tax Avoidance</title>
-      <link>https://dgdi.github.io/talk/routledge_optimal/</link>
-      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://dgdi.github.io/talk/routledge_optimal/</guid>
+      <guid>https://dgdi.github.io/publication/avoid_social/</guid>
       <description></description>
     </item>
     
@@ -111,11 +48,47 @@
     </item>
     
     <item>
-      <title>Enforcement of tax law: An auction theory approach</title>
+      <title>Enforcement of tax law: An auction theory aproach</title>
       <link>https://dgdi.github.io/talk/siep2012/</link>
-      <pubDate>Mon, 24 Sep 2012 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dgdi.github.io/talk/siep2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian Municipalities Efficiency: A Conditional Frontier Model Approach</title>
+      <link>https://dgdi.github.io/talk/sapienza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dgdi.github.io/talk/sapienza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Income Tax Enforcement in the Presence of Tax Avoidance</title>
+      <link>https://dgdi.github.io/talk/routledge_optimal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dgdi.github.io/talk/routledge_optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Income Tax Enforcement in the Presence of Tax Avoidance</title>
+      <link>https://dgdi.github.io/talk/tarc4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dgdi.github.io/talk/tarc4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tax avoidance on a social network</title>
+      <link>https://dgdi.github.io/talk/tarc5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dgdi.github.io/talk/tarc5/</guid>
       <description></description>
     </item>
     
