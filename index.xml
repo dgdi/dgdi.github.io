@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Compliance on Networks</title>
+      <link>https://dgdi.github.io/talk/iqte_05_02_18/</link>
+      <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://dgdi.github.io/talk/iqte_05_02_18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compliance on Networks</title>
+      <link>https://dgdi.github.io/talk/renmin_07_02_18/</link>
+      <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://dgdi.github.io/talk/renmin_07_02_18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tax avoidance and optimal income tax enforcement</title>
       <link>https://dgdi.github.io/publication/tax_avoidance_opt/</link>
       <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
@@ -125,15 +143,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dgdi.github.io/talk/tarc5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tax avoidance on a social network</title>
-      <link>https://dgdi.github.io/talk/tarc_showcase/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dgdi.github.io/talk/tarc_showcase/</guid>
       <description></description>
     </item>
     
