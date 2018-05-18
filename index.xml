@@ -11,7 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Tax evasion on a social network</title>
+      <title>Tax Evasion on a Social Network</title>
+      <link>https://dgdi.github.io/publication/evade_social/</link>
+      <pubDate>Thu, 10 May 2018 17:32:00 +0100</pubDate>
+      
+      <guid>https://dgdi.github.io/publication/evade_social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tax Evasion on a Social Network</title>
       <link>https://dgdi.github.io/talk/trn_2018/</link>
       <pubDate>Fri, 04 May 2018 16:55:42 +0100</pubDate>
       
@@ -20,7 +29,7 @@
     </item>
     
     <item>
-      <title>Tax evasion on a social network</title>
+      <title>Tax Evasion on a Social Network</title>
       <link>https://dgdi.github.io/talk/apet_2018/</link>
       <pubDate>Mon, 16 Apr 2018 15:35:02 +0100</pubDate>
       
@@ -29,7 +38,7 @@
     </item>
     
     <item>
-      <title>Tax evasion on a social network</title>
+      <title>Tax Evasion on a Social Network</title>
       <link>https://dgdi.github.io/talk/tarc_bbs_04_2018/</link>
       <pubDate>Mon, 16 Apr 2018 15:25:27 +0100</pubDate>
       
@@ -47,7 +56,7 @@
     </item>
     
     <item>
-      <title>Tax evasion on a social network</title>
+      <title>Tax Evasion on a Social Network</title>
       <link>https://dgdi.github.io/talk/tarc6/</link>
       <pubDate>Wed, 11 Apr 2018 12:00:00 +0000</pubDate>
       
@@ -134,15 +143,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dgdi.github.io/talk/siep-sept2017-narrow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Italian Municipalities Efficiency: A Conditional Frontier Model Approach</title>
-      <link>https://dgdi.github.io/talk/sapienza/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dgdi.github.io/talk/sapienza/</guid>
       <description></description>
     </item>
     
