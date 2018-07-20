@@ -6,9 +6,11 @@
     <description>Recent content in Publication_types on Duccio Gamannossi degl&#39;Innocenti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Duccio Gamannossi degl&#39;Innocenti</copyright>
+    <copyright>&amp;copy; 2018 Duccio Gamannossi degl&#39;Innocenti</copyright>
     <lastBuildDate>Wed, 06 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://dgdi.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>2</title>
@@ -22,7 +24,7 @@
     <item>
       <title>3</title>
       <link>https://dgdi.github.io/publication_types/3/</link>
-      <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 May 2018 17:32:00 +0100</pubDate>
       
       <guid>https://dgdi.github.io/publication_types/3/</guid>
       <description></description>
@@ -31,7 +33,7 @@
     <item>
       <title>6</title>
       <link>https://dgdi.github.io/publication_types/6/</link>
-      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Jun 2018 11:40:10 +0100</pubDate>
       
       <guid>https://dgdi.github.io/publication_types/6/</guid>
       <description></description>

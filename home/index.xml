@@ -8,7 +8,59 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Duccio Gamannossi degl&#39;Innocenti</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://dgdi.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://dgdi.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dgdi.github.io/home/about/</guid>
+      <description>Biography I am a Postdoctoral Research Associate at the Tax Administration Research Centre of the University of Exeter. I worked in the ICES (Institutional Change, Economics, Society) research unit during my PhD and at Brunel University London as a Visiting Researcher.
+I apply microeconomic theory to investigate how psychological, social and cognitive factors affect tax compliance: Tax evasion, tax avoidance and optimal deterrence policies.
+In recent research projects I have analyzed how tax avoidance and evasion impact on the self-declaration of liabilities made by taxpayers and on optimal enforcement of tax laws made by the tax agencies.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://dgdi.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://dgdi.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://dgdi.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dgdi.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dgdi.github.io/home/tarc_bbs/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dgdi.github.io/home/tarc_bbs/</guid>
+      <description>TARC Brown Bag Seminars 
+The TARC Brown Bag Seminars series is held fortnightly at the University of Exeter to provide scholars and practitioners an occasion to meet with the frontier of research on tax related themes. To join the mailing list and receive information on the upcoming seminars fill out this form.
+The Brown Bag Seminar series for the Academic year 2017&amp;frasl;2018 is concluded
+Past Seminars  03/05/2018 - John D’Attoma “Social Value Orientation, Gender, and Tax Compliance”</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://dgdi.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dgdi.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
