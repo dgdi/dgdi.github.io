@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Tax Evasion on a Social Network</title>
+      <link>https://dgdi.github.io/talk/asset_2018/</link>
+      <pubDate>Mon, 06 Aug 2018 19:58:52 +0200</pubDate>
+      
+      <guid>https://dgdi.github.io/talk/asset_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tax Evasion on a Social Network</title>
+      <link>https://dgdi.github.io/talk/siep_2018/</link>
+      <pubDate>Mon, 06 Aug 2018 19:58:35 +0200</pubDate>
+      
+      <guid>https://dgdi.github.io/talk/siep_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Essays on Tax Collection and Local Government Efficiency</title>
       <link>https://dgdi.github.io/publication/atti_e_memorie_la_colombaria/</link>
       <pubDate>Thu, 14 Jun 2018 11:40:10 +0100</pubDate>
@@ -126,24 +144,6 @@
       <guid>https://dgdi.github.io/publication/ita_muni_eff/</guid>
       <description>&lt;iframe style=&#34;width: 100%; height: 900px; border: none;&#34; src=&#34;https://dgdi.github.io/data/map.html&#34;&gt;&lt;/iframe&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Enforcement of tax law: An auction theory aproach</title>
-      <link>https://dgdi.github.io/talk/siep2012/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dgdi.github.io/talk/siep2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Income tax avoidance and evasion: A narrow bracketing approach</title>
-      <link>https://dgdi.github.io/talk/siep-sept2017-narrow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dgdi.github.io/talk/siep-sept2017-narrow/</guid>
-      <description></description>
     </item>
     
   </channel>
