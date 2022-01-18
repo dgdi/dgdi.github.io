@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Marketed Tax Avoidance Schemes: An Economic Analysis</title>
+      <link>https://dgdi.github.io/publication/avoid_market/</link>
+      <pubDate>Mon, 15 Nov 2021 21:57:35 +0100</pubDate>
+      
+      <guid>https://dgdi.github.io/publication/avoid_market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tax Avoidance and Evasion in a Dynamic Setting</title>
+      <link>https://dgdi.github.io/publication/avoid_evade_dynamic/</link>
+      <pubDate>Mon, 15 Nov 2021 20:14:20 +0100</pubDate>
+      
+      <guid>https://dgdi.github.io/publication/avoid_evade_dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tax Avoidance and Evasion in a Dynamic Setting</title>
       <link>https://dgdi.github.io/talk/shadow_2021/</link>
       <pubDate>Sun, 19 Sep 2021 19:58:35 +0200</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Mon, 16 Apr 2018 15:35:02 +0100</pubDate>
       
       <guid>https://dgdi.github.io/talk/apet_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tax Evasion on a Social Network</title>
-      <link>https://dgdi.github.io/talk/tarc_bbs_04_2018/</link>
-      <pubDate>Mon, 16 Apr 2018 15:25:27 +0100</pubDate>
-      
-      <guid>https://dgdi.github.io/talk/tarc_bbs_04_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tax Evasion on a Social Network</title>
-      <link>https://dgdi.github.io/talk/tarc6/</link>
-      <pubDate>Wed, 11 Apr 2018 12:00:00 +0000</pubDate>
-      
-      <guid>https://dgdi.github.io/talk/tarc6/</guid>
       <description></description>
     </item>
     
