@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Duccio Gamannossi degl&#39;Innocenti</title>
+    <link>https://dgdi.github.io/publication_types/0/</link>
+    <description>Recent content in 0 on Duccio Gamannossi degl&#39;Innocenti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Duccio Gamannossi degl&#39;Innocenti</copyright>
+    <lastBuildDate>Wed, 21 Sep 2022 18:08:08 +0200</lastBuildDate>
+    
+	<atom:link href="https://dgdi.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Excess_covid19</title>
+      <link>https://dgdi.github.io/publication/excess_covid19/</link>
+      <pubDate>Wed, 21 Sep 2022 18:08:08 +0200</pubDate>
+      
+      <guid>https://dgdi.github.io/publication/excess_covid19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Differential COVID-19 mortality in the United States: Patterns, causes and policy implications</title>
+      <link>https://dgdi.github.io/publication/excess_covid19/</link>
+      <pubDate>Wed, 21 Sep 2022 12:02:17 +0200</pubDate>
+      
+      <guid>https://dgdi.github.io/publication/excess_covid19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketed Tax Avoidance: An Economic Analysis</title>
+      <link>https://dgdi.github.io/publication/avoid_market/</link>
+      <pubDate>Tue, 20 Sep 2022 21:57:35 +0100</pubDate>
+      
+      <guid>https://dgdi.github.io/publication/avoid_market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tax Avoidance and Evasion in a Dynamic Setting</title>
       <link>https://dgdi.github.io/publication/avoid_evade_dynamic/</link>
       <pubDate>Tue, 06 Sep 2022 10:11:05 +0100</pubDate>
@@ -25,15 +43,6 @@
       <pubDate>Thu, 14 Apr 2022 10:01:00 +0200</pubDate>
       
       <guid>https://dgdi.github.io/talk/fine_struct_evade/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marketed Tax Avoidance: An Economic Analysis</title>
-      <link>https://dgdi.github.io/publication/avoid_market/</link>
-      <pubDate>Mon, 15 Nov 2021 21:57:35 +0100</pubDate>
-      
-      <guid>https://dgdi.github.io/publication/avoid_market/</guid>
       <description></description>
     </item>
     
@@ -133,15 +142,6 @@
       <pubDate>Thu, 14 Jun 2018 11:40:10 +0100</pubDate>
       
       <guid>https://dgdi.github.io/publication/atti_e_memorie_la_colombaria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tax Evasion on a Social Network</title>
-      <link>https://dgdi.github.io/talk/trn_2018/</link>
-      <pubDate>Fri, 04 May 2018 16:55:42 +0100</pubDate>
-      
-      <guid>https://dgdi.github.io/talk/trn_2018/</guid>
       <description></description>
     </item>
     
